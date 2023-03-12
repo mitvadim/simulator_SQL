@@ -13,8 +13,8 @@
 `courier_id`/`user_id` - id курьера/пользователя  
 `order_id` - id заказа  
 `action` - показывает какое действие совершено
-* для курьеров значения accept_order/deliver_order
-* для клиентов create_order/cancel_order  
+* для курьеров значения *accept_order/deliver_order*
+* для клиентов *create_order/cancel_order*  
 
 `time` - время совершения действия
 
